@@ -33,7 +33,7 @@ export default function Experience() {
       period: "Jan 2023 - April 2023",
       responsibilities: [
         "Utilized <b>Postman</b> for testing REST API calls for a Warehouse Management System Integration.",
-        "Designed solutions for clients using <b>JavaScript</b> to add functionalities to Oracle's NetSuite.",
+        "Designed solutions for clients using <b>JavaScript</b> to add functionalities to Oracle's NetSuite ERP System.",
       ],
     },
     {
