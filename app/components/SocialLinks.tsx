@@ -25,7 +25,7 @@ export default function SocialLinks() {
         <span>GitHub</span>
       </Link>
       <Link
-        href="/AlySalehCV.pdf"
+        href="/CV_AlySaleh.pdf"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Download CV"
