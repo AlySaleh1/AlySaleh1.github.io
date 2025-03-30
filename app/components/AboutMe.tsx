@@ -10,7 +10,7 @@ export default function AboutMe() {
           <div className="relative mb-8">
             <div className="absolute inset-0 bg-blue-500 rounded-full blur-lg opacity-75"></div>
             <Image
-              src="headshot.jpg"
+              src="headshot.JPG"
               alt="Aly Saleh's Picture"
               width={200}
               height={200}
